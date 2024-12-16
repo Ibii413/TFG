@@ -1,0 +1,4 @@
+Desviación: 0, Accuracy: 0.902965, Precision: 0.906782, Recall: 0.902965, F1-Score: 0.885248
+Desviación: 1e-06, Accuracy: 0.299961, Precision: 0.385179, Recall: 0.299961, F1-Score: 0.246172
+Desviación: 2e-06, Accuracy: 0.299961, Precision: 0.385179, Recall: 0.299961, F1-Score: 0.246172
+Desviación: 3e-06, Accuracy: 0.299961, Precision: 0.385179, Recall: 0.299961, F1-Score: 0.246172

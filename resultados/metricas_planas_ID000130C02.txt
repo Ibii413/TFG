@@ -1,0 +1,5 @@
+IDP: ID000130C02
+Accuracy: 0.971001
+Precision: 0.971315
+Recall: 0.971001
+F1-Score: 0.964696
